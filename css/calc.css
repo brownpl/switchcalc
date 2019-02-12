@@ -43,3 +43,8 @@ body {
     flex-grow: 8;
     margin-left: 10px;
 }
+
+#readProblem {
+    font-size: 1px;
+    color: black;
+}
